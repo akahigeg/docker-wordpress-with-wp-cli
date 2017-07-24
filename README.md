@@ -14,5 +14,5 @@
 
 Local `src` directory is mapped `/var/www/html` on a container.
 
-WordPress source will be copied to `/var/www/html` when container start.
+WordPress source will be copied to `/var/www/html` when a container start everytime.
 
